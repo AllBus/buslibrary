@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/buslibrary.iml" filepath="$PROJECT_DIR$/buslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buslibrary/buslibrary-buslibrary.iml" filepath="$PROJECT_DIR$/buslibrary/buslibrary-buslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busmoduleLib/busmoduleLib.iml" filepath="$PROJECT_DIR$/busmoduleLib/busmoduleLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busmoduleLib/busmoduleLib.iml" filepath="$PROJECT_DIR$/busmoduleLib/busmoduleLib.iml" />
+    </modules>
+  </component>
+</project>
